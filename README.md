@@ -1,4 +1,4 @@
-# AI Hand Gesture Controller
+# Hand Gesture Controller
 
 A real-time virtual hand mouse that uses your webcam, MediaPipe hand tracking,
 and PyAutoGUI to let you control your computer cursor with hand gestures.
@@ -80,7 +80,7 @@ All constants live at the top of `hand_gesture_controller.py`:
 - **PyAutoGUI fail-safe** → Moving the mouse to the top-left corner of the
   screen will abort the script (built-in safety).
 
-## AI Fruit Ninja Game
+## Fruit Ninja Game
 
 This repository also includes an AI "Fruit Ninja" style game (`fruit_ninja.py`) built using the MediaPipe Tasks API. It uses your webcam and your index finger as a sword to slice flying fruits on the screen!
 
